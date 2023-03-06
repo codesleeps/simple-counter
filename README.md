@@ -1,5 +1,7 @@
 # simple-counter
 
+https://codesleeps.github.io/simple-counter/
+
 Vanilla JS Basic Counter
 
 
