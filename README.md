@@ -1,5 +1,8 @@
 # simple-counter
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+
 https://codesleeps.github.io/simple-counter/
 
 Vanilla JS Basic Counter
